@@ -1,11 +1,11 @@
 TeamWin Recovery Project
 
-Device configuration for Lenovo Yoga Tablet 3 Plus Wifi(YT-X703F)
+Device configuration for Lenovo Yoga Tablet 3 Plus (YT-X703F and YT-X703L)
 =====================================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CHIPSET | Qualcomm APQ8076 Snapdragon 652
+CHIPSET | Qualcomm MSM8976/APQ8076 Snapdragon 652
 CPU     | Quad-core 1.4 GHz Cortex-A53 & Dual-core 1.8 GHz Cortex-A72
 GPU     | Adreno 510
 Memory  | 3 GB
